@@ -21,7 +21,7 @@ function App() {
       onMouseMove={({ clientX: x, clientY: y }) => set({ xys: calc(x, y) })}
       onMouseLeave={() => set({xys: [0, 0, 1]})}>
         <div className={'sub-card'}>
-          <img src={'./travel.jpg'} className={'image'} />
+          <img src={'travel.jpg'} className={'image'} />
         </div>
       </animated.div>
     </div>

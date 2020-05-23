@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d8db17ebaed5d3a6429c18392df77a70",
+    "revision": "42658ca3d5279a8ea5fb72dbd2f8af81",
     "url": "/react_3d_photo/index.html"
   },
   {
-    "revision": "06f788282135cd1cf2f1",
-    "url": "/react_3d_photo/static/css/main.466d295a.chunk.css"
+    "revision": "501fe5b7f495119f7c1f",
+    "url": "/react_3d_photo/static/css/main.7a0a8251.chunk.css"
   },
   {
     "revision": "4d01db5b7c20dbae4503",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react_3d_photo/static/js/2.c51a2683.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "06f788282135cd1cf2f1",
-    "url": "/react_3d_photo/static/js/main.e7451b02.chunk.js"
+    "revision": "501fe5b7f495119f7c1f",
+    "url": "/react_3d_photo/static/js/main.f98401f2.chunk.js"
   },
   {
     "revision": "92050572d71f7fe09764",

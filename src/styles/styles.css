@@ -17,20 +17,3 @@
 .card:hover {
   cursor: pointer;
 }
-
-.sub-card {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  align-content: center;
-  width: 100%;
-  height: 100%;
-  border-radius: 15px;
-  overflow: hidden;
-  position: relative;
-}
-
-.image {
-  height: 100%;
-  position: absolute;
-}
